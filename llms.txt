@@ -1,0 +1,73 @@
+# Na Pele Lingerie
+> Lingerie direto da fábrica em Nova Friburgo, o maior polo de moda íntima do Brasil. Calcinhas, conjuntos, bodies, camisolas e linha sexy com conforto, sensualidade e preço de fábrica.
+
+## Fatos sobre a loja
+- Loja de fábrica de lingerie, empresa familiar fundada em 2022.
+- Localização: Nova Friburgo - RJ, Brasil, o maior polo de moda íntima do país.
+- Pagamento: PIX com 10% de desconto ou cartão de crédito em até 6x sem juros.
+- Envio para todo o Brasil; postagem em até 7 dias úteis após a aprovação do pagamento.
+- Frete grátis acima de R$ 149,00 para Sul, Sudeste e Centro-Oeste.
+- Devolução em até 7 dias corridos após o recebimento, com postagem reversa sem custo. Não realiza trocas.
+- Vende no varejo (este site) e no atacado para revendedoras.
+- Atendimento: WhatsApp +5522998151697, e-mail sac.napelelingerie@gmail.com.
+
+## Categorias
+- [Meias e acessórios](https://igorstutz.github.io/napelelingerie/acessorios): Meias 7/8, meia-calça arrastão, cinta-liga, tapa-mamilos e outros acessórios para completar o look.
+- [Meias](https://igorstutz.github.io/napelelingerie/acessorios/meias)
+- [Bodies](https://igorstutz.github.io/napelelingerie/bodies): Bodies femininos que valorizam o corpo: use como lingerie ou combine com saia, calça ou blazer.
+- [Dia a dia](https://igorstutz.github.io/napelelingerie/dia-a-dia): Peças básicas e confortáveis que não marcam a roupa, para usar da manhã à noite.
+- [Lingerie](https://igorstutz.github.io/napelelingerie/lingerie): Calcinhas, conjuntos, sutiãs e camisolas produzidos em Nova Friburgo, o maior polo de moda íntima do Brasil. Conforto para o dia a dia e sensualidade para as noites especiais.
+- [Calcinhas](https://igorstutz.github.io/napelelingerie/lingerie/calcinhas): Tangas, fio dental, fio duplo e calcinhas de cintura alta em microfibra, renda e tule. Modelos confortáveis e sensuais com preço de fábrica.
+- [Kits de calcinhas](https://igorstutz.github.io/napelelingerie/lingerie/calcinhas/kits): Leve mais e pague menos: kits com 2, 3, 5 ou 10 calcinhas em cores sortidas ou escolhidas por você. Ideal para renovar a gaveta.
+- [Camisolas](https://igorstutz.github.io/napelelingerie/lingerie/camisolas): Camisolas em renda, tule e microfibra para dormir bem e se sentir linda.
+- [Conjuntos](https://igorstutz.github.io/napelelingerie/lingerie/conjuntos): Sutiã e calcinha combinando, com e sem bojo, em renda, tule e microfibra. Do básico ao conjunto sexy para uma noite especial.
+- [Lingerie sexy](https://igorstutz.github.io/napelelingerie/lingerie/lingerie-sexy): Peças ousadas com transparência, renda, cinta-liga e detalhes provocantes para apimentar a relação.
+- [Fantasias](https://igorstutz.github.io/napelelingerie/lingerie/lingerie-sexy/fantasias): Fantasias sensuais para surpreender e realizar desejos.
+- [Sutiãs](https://igorstutz.github.io/napelelingerie/lingerie/sutias): Sutiãs com bojo, alças reguláveis e modelagem confortável para usar todos os dias.
+- [Pijamas e robes](https://igorstutz.github.io/napelelingerie/pijamas-e-robes): Pijamas, macaquinhos e robes com renda para noites confortáveis e elegantes.
+- [Pijamas](https://igorstutz.github.io/napelelingerie/pijamas-e-robes/pijamas)
+- [Robes](https://igorstutz.github.io/napelelingerie/pijamas-e-robes/robes)
+
+## Produtos mais vendidos
+- [Tanga Fio Duplo](https://igorstutz.github.io/napelelingerie/produtos/tanga-fio-duplo): R$ 5,90 (R$ 5,31 no PIX). Tanga Fio Duplo em Microfibra com Regulagem 🔥
+- [Tanga Fio Tulipa](https://igorstutz.github.io/napelelingerie/produtos/tanga-fio-tulipa): R$ 5,90 (R$ 5,31 no PIX). Delicada nos detalhes, provocante no visual.
+- [Tanga Fio Coração Strass](https://igorstutz.github.io/napelelingerie/produtos/tanga-fio-coracao-strass): R$ 8,90 (R$ 8,01 no PIX). Tanga Coração com Strass 💎 – Sensualidade em cada detalhe
+- [Tanga Borboleta](https://igorstutz.github.io/napelelingerie/produtos/tanga-borboleta): R$ 7,90 (R$ 7,11 no PIX). 🦋 Tanga Borboleta com Paetê – Delicadeza que brilha Uma peça encantadora pra quem ama detalhes únicos!
+- [Calcinha Tailandesa](https://igorstutz.github.io/napelelingerie/produtos/calcinha-tailandesa): R$ 7,90 (R$ 7,11 no PIX). 🔥 Calcinha Tailandesa Pérola Rendada – O Toque de Sensualidade que Faltava! 🔥
+- [Tanga Fio Playboy](https://igorstutz.github.io/napelelingerie/produtos/tanga-fio-playboy): R$ 5,90 (R$ 5,31 no PIX). 🔥 Calcinha Fio Dental de Renda com Pingente Playboy – Ousadia e Charme! 🔥
+- [Conjunto Espartilho Luxe](https://igorstutz.github.io/napelelingerie/produtos/conjunto-espartilho-luxe): R$ 29,90 (R$ 26,91 no PIX). 🤍 Conjunto Espartilho com Liga – Sensualidade e poder em uma só peça!
+- [Tanga Coração - Regulagem](https://igorstutz.github.io/napelelingerie/produtos/tanga-coracao-regulagem): R$ 5,90 (R$ 5,31 no PIX). Sabe aquela peça que é puro impacto? É essa.
+- [Conjunto Deusa](https://igorstutz.github.io/napelelingerie/produtos/conjunto-deusa): R$ 28,90 (R$ 26,01 no PIX). 🔥 Conjunto Lingerie em Renda com Luvas – Surpreenda com Estilo e Sensualidade! 🔥
+- [Conjunto Apressadinha](https://igorstutz.github.io/napelelingerie/produtos/conjunto-apressadinha): R$ 11,90 (R$ 10,71 no PIX). ❤️ Conjunto Apressadinha em Renda – Ousadia em cada detalhe!
+- [Body Sexy Laço](https://igorstutz.github.io/napelelingerie/produtos/body-sexy-laco): R$ 19,90 (R$ 17,91 no PIX). 🎀 Body Laço com Tiras Ajustáveis – Um convite ao desejo com toque provocante e moderno!
+- [Body Penélope em Renda com Bojo e Cinta Liga | Body Feminino M ao GG](https://igorstutz.github.io/napelelingerie/produtos/body-penelope): R$ 23,90 (R$ 21,51 no PIX). 🔥 Body Cinta-Liga Sem Bojo – Sensualidade e Delicadeza em Uma Peça! 🔥
+- [Tanga Pérola](https://igorstutz.github.io/napelelingerie/produtos/tanga-perola): R$ 7,90 (R$ 7,11 no PIX). 🔥 Calcinha com Pérolas Estimuladoras – Sensualidade e Elegância! 🔥
+- [Tanga Débora](https://igorstutz.github.io/napelelingerie/produtos/tanga-debora): R$ 7,90 (R$ 7,11 no PIX). 🔥 Tanga em Renda – Conforto e Qualidade Impecável 🔥
+- [Conjunto Laço](https://igorstutz.github.io/napelelingerie/produtos/conjunto-laco): R$ 19,90 (R$ 17,91 no PIX). 🎀 Conjunto Sensual com Aro, Tule e Laços em Cetim – Um charme provocante e delicado!
+- [Camisola Sereia](https://igorstutz.github.io/napelelingerie/produtos/camisola-sereia): R$ 26,90 (R$ 24,21 no PIX). 💋 Camisola Sereia Romantic com Abertura nas Costas – Sexy e elegante!
+- [Calcinha Caleçon Coração](https://igorstutz.github.io/napelelingerie/produtos/calcinha-calecon-coracao): R$ 7,90 (R$ 7,11 no PIX). 🔥 Calcinha Coração em Renda Caleçon – Sexy e Romântica! 🔥
+- [Tanga Renda Fio](https://igorstutz.github.io/napelelingerie/produtos/tanga-renda-fio): R$ 5,90 (R$ 5,31 no PIX). 🔥 Calcinha de Renda com Regulagem Lateral – Conforto e Sensualidade! 🔥
+- [Tanga Led Paete](https://igorstutz.github.io/napelelingerie/produtos/tanga-led-paete): R$ 8,90 (R$ 8,01 no PIX). Tanga LED com Paetê ✨ – Brilho que acende a produção!
+- [Tanga Cirre Fio Duplo](https://igorstutz.github.io/napelelingerie/produtos/tanga-cirre-fio-duplo): R$ 7,90 (R$ 7,11 no PIX). Tanga Cirrê com Detalhe Coração 💜 – Estilo com toque metálico
+- [Tanga Borboleta Rendada](https://igorstutz.github.io/napelelingerie/produtos/tanga-borboleta-rendada): R$ 8,90 (R$ 8,01 no PIX). Tanga Borboleta com Strass e Detalhe de Coração 🦋✨
+- [Short Anagua - Sem Cós](https://igorstutz.github.io/napelelingerie/produtos/short-anagua-sem-cos): R$ 7,90 (R$ 7,11 no PIX). 🖤 Short Anágua Sem Cós – Leveza e conforto o dia todo Um básico essencial que une praticidade e discrição!
+- [Robe Tule](https://igorstutz.github.io/napelelingerie/produtos/robe-tule): R$ 28,90 (R$ 26,01 no PIX). 🔥 Robe de Tule – Elegância e Sensualidade em Uma Só Peça! 🔥
+- [Robe Romantic](https://igorstutz.github.io/napelelingerie/produtos/robe-romantic): R$ 29,90 (R$ 26,91 no PIX). 🔥 Robe Romantic – Conforto e Elegância! 🔥
+- [Robe Luxe](https://igorstutz.github.io/napelelingerie/produtos/robe-luxe): R$ 35,90 (R$ 32,31 no PIX). 💎 Robe em Tule com Detalhes em Renda e Fita de Cetim
+- [Robe Longo Feminino em Microfibra com Renda | Luxo Linha Noite](https://igorstutz.github.io/napelelingerie/produtos/robe-longo-feminino-em-microfibra-com-renda-luxo-linha-noite-nnqis): R$ 35,90 (R$ 32,31 no PIX). O Robe Longo Feminino em Microfibra com Renda combina elegância, conforto e sofisticação para tornar seus momentos ainda mais especiais. Confeccionado em microfibra macia e de excelente caimento,...
+- [Pijama Top Doll Milla](https://igorstutz.github.io/napelelingerie/produtos/pijama-top-doll-milla): R$ 19,90 (R$ 17,91 no PIX). 💋 Top Doll Romantic em Renda – Charme e delicadeza em cada detalhe!
+- [Pijama Casal Combinadinho](https://igorstutz.github.io/napelelingerie/produtos/pijama-casal-combinadinho): R$ 39,90 (R$ 35,91 no PIX). Surpreenda o seu amor com esse kit casal perfeito! Uma combinação delicada e confortável para você e ele, unindo estilo, charme e toque macio. Ideal para momentos especiais ou para curtir...
+- [Meia Branca - Cano Longo](https://igorstutz.github.io/napelelingerie/produtos/meia-branca-cano-longo): R$ 9,90 (R$ 8,91 no PIX). 🔥 Meia Longa Branca – Conforto e Elegância para Todos os Looks! 🔥
+- [Lingerie Body Sedutora Sexy Rendado Com Aro Sensual com cinta liga persex Luxo](https://igorstutz.github.io/napelelingerie/produtos/lingerie-body-sedutora-sexy-rendado-com-aro-sensual-com-cinta-liga-persex-luxo-1idna): R$ 27,90 (R$ 25,11 no PIX). Body Sexy em Renda com Aro – Pura Sensualidade, Sem Bojo
+
+## Páginas úteis
+- https://igorstutz.github.io/napelelingerie/politica-de-privacidade
+- https://igorstutz.github.io/napelelingerie/guia-de-medidas
+- https://igorstutz.github.io/napelelingerie/duvidas-frequentes
+- https://igorstutz.github.io/napelelingerie/politicas-de-devolucao
+- https://igorstutz.github.io/napelelingerie/politicas-de-frete-e-entrega
+- https://igorstutz.github.io/napelelingerie/formas-de-pagamento
+- https://igorstutz.github.io/napelelingerie/contato
+- https://igorstutz.github.io/napelelingerie/sobre-nos
+- Revenda / atacado: https://igorstutz.github.io/napelelingerie/seja-revendedora
+- Catálogo completo: https://igorstutz.github.io/napelelingerie/produtos
